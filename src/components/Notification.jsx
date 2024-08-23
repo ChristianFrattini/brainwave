@@ -38,7 +38,7 @@ const Notification = ({ className, title }) => {
                 </li>
               ))}
             </ul>
-            <div className="body-2 mr-5 ml-5 text-n-13"> {"   "}1m ago</div>
+            <div className="body-2  ml-5 text-n-13"> {"   "}1m ago</div>
           </div>
         </h6>
       </div>
