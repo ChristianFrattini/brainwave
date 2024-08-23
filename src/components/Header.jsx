@@ -2,7 +2,7 @@ import React from "react";
 import { useLocation } from "react-router-dom";
 import { brainwave } from "../assets";
 import { navigation } from "../constants";
-import Button from "./Button";
+import Button from "./Button.jsx";
 import MenuSvg from "../assets/svg/MenuSvg";
 import { HambugerMenu } from "./design/Header";
 import { useState } from "react";
